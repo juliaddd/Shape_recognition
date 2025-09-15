@@ -1,0 +1,22 @@
+ID	Centroid	Random Forest	Tree	KNN	Neural Net	Color
+ID 1	(605.5702,16.5088)	Triangle	Triangle	Bridge	Bridge	Gray
+ID 2	(605.5702,16.5088)	Square	Square	Square	Square	Green
+ID 12	(605.5702,16.5088)	Triangle	Triangle	Triangle	Triangle	Red
+ID 22	(605.5702,16.5088)	Triangle	Triangle	Bridge	Triangle	Gray
+ID 1	(605.5702,16.5088)	Triangle	Triangle	Bridge	Bridge	Gray
+ID 2	(605.5702,16.5088)	Square	Square	Square	Square	Green
+ID 12	(605.5702,16.5088)	Triangle	Triangle	Triangle	Triangle	Red
+ID 22	(605.5702,16.5088)	Triangle	Triangle	Bridge	Triangle	Gray
+ID 1	(605.5702,16.5088)	Triangle	Triangle	Bridge	Bridge	Gray
+ID 2	(605.5702,16.5088)	Square	Square	Square	Square	Green
+ID 12	(605.5702,16.5088)	Triangle	Triangle	Triangle	Triangle	Red
+ID 22	(605.5702,16.5088)	Triangle	Triangle	Bridge	Triangle	Gray
+ID 1	(605.5702,16.5088)	Triangle	Triangle	Bridge	Bridge	Gray
+ID 2	(605.5702,16.5088)	Square	Square	Square	Square	Green
+ID 12	(605.5702,16.5088)	Triangle	Triangle	Triangle	Triangle	Red
+ID 22	(605.5702,16.5088)	Triangle	Triangle	Bridge	Triangle	Gray
+ID 121	(493.9487,325.9888)	Rectangle	Rectangle	Rectangle	Rectangle	Cyan
+ID 291	(493.9487,325.9888)	Bridge	Bridge	Rectangle	Rectangle	Gray
+ID 378	(493.9487,325.9888)	Triangle	Triangle	Bridge	Bridge	Gray
+ID 568	(493.9487,325.9888)	Triangle	Triangle	Triangle	Triangle	Cyan
+ID 630	(493.9487,325.9888)	Bridge	Bridge	Bridge	Bridge	Cyan

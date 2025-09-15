@@ -1,0 +1,32 @@
+ID	Centroid	Random Forest	Tree	KNN	Neural Net
+ID 1	(401.8459,213.8098)	Rectangle	Rectangle	Rectangle	Bridge
+ID 103	(401.8459,213.8098)	Rectangle	Rectangle	Rectangle	Bridge
+ID 1	(628.8609,195.9078)	Rectangle	Rectangle	Rectangle	Bridge
+ID 3	(628.8609,195.9078)	Rectangle	Rectangle	Rectangle	Bridge
+ID 5	(628.8609,195.9078)	Rectangle	Rectangle	Rectangle	Bridge
+ID 6	(628.8609,195.9078)	Rectangle	Rectangle	Rectangle	Bridge
+ID 21	(628.8609,195.9078)	Rectangle	Rectangle	Rectangle	Bridge
+ID 23	(628.8609,195.9078)	Rectangle	Rectangle	Rectangle	Bridge
+ID 24	(628.8609,195.9078)	Rectangle	Triangle	Rectangle	Bridge
+ID 5	(615.2639,218.305)	Rectangle	Rectangle	Rectangle	Bridge
+ID 21	(615.2639,218.305)	Rectangle	Rectangle	Rectangle	Bridge
+ID 33	(615.2639,218.305)	Rectangle	Rectangle	Rectangle	Bridge
+ID 41	(615.2639,218.305)	Rectangle	Rectangle	Rectangle	Bridge
+ID 42	(615.2639,218.305)	Triangle	Triangle	Rectangle	Bridge
+ID 47	(615.2639,218.305)	Rectangle	Rectangle	Rectangle	Bridge
+ID 49	(615.2639,218.305)	Rectangle	Rectangle	Rectangle	Bridge
+ID 54	(615.2639,218.305)	Rectangle	Rectangle	Rectangle	Bridge
+ID 55	(615.2639,218.305)	Rectangle	Rectangle	Rectangle	Bridge
+ID 68	(615.2639,218.305)	Rectangle	Rectangle	Rectangle	Bridge
+ID 1	(616.687,33.5321)	Rectangle	Triangle	Rectangle	Bridge	Green
+ID 2	(616.687,33.5321)	Rectangle	Rectangle	Rectangle	Bridge	Gray
+ID 1	(628.1071,254.9099)	Triangle	Triangle	Rectangle	Square	Gray
+ID 67	(628.1071,254.9099)	Rectangle	Rectangle	Rectangle	Rectangle	Cyan
+ID 459	(628.1071,254.9099)	Triangle	Triangle	Bridge	Triangle	Gray
+ID 460	(628.1071,254.9099)	Triangle	Triangle	Triangle	Triangle	Cyan
+ID 494	(628.1071,254.9099)	Bridge	Bridge	Bridge	Bridge	Cyan
+ID 545	(628.1071,254.9099)	Triangle	Triangle	Bridge	Bridge	Orange
+ID 663	(628.1071,254.9099)	Triangle	Triangle	Bridge	Triangle	Gray
+ID 697	(628.1071,254.9099)	Triangle	Triangle	Bridge	Bridge	Gray
+ID 806	(628.1071,254.9099)	Rectangle	Rectangle	Rectangle	Triangle	Gray
+ID 810	(628.1071,254.9099)	Triangle	Triangle	Bridge	Triangle	Gray
